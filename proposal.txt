@@ -1,4 +1,5 @@
 Proposal (1st draft)
+Project Title: Quasar(an extremely luminous active galactic nucleus) Outliers Detection and Evaluation of Their Properties 
 Given: 
     - Quasar catalog including measured properties of more than 750k objects in [dr16q](https://www.sdss.org/dr16/algorithms/qso_catalog/) 
     - 1D image of each quasars as their spectrum available in [SDSS](https://www.sdss.org/dr16/spectro)
@@ -10,8 +11,11 @@ Given:
     - Outliers in each class should be identified. 
     
 - Evaluation: 
-    - Finally, outliers in each class should be visually inspected by looking their spectra to see why they have been labeled as outliers. 
+    - Finally, outliers in each class should be visually inspected by looking their spectra to see why they have been labeled as outliers. Their spectra will be compared to the spectra of typical outliers to to visually identify the difference in pattern.
 
 Group member labour division: 
 1) Reza Monadi  : Implementing Kohonen self-organized maps to reduce the dimentionality of data and find outliers. Create 
 2) Hasin Us Sami: Implementing Density-Based Spatial Clustering to detect outliers.
+3)
+4)
+
