@@ -1,5 +1,5 @@
 Proposal (1st draft)
-Project Title: Quasar(an extremely luminous active galactic nucleus) Outliers Detection and Evaluation of Their Properties 
+Project Title: Quasar(an extremely luminous active galactic nucleus) Outliers Detection and Inspection of Their Properties 
 Given: 
     - Quasar catalog including measured properties of more than 750k objects in [dr16q](https://www.sdss.org/dr16/algorithms/qso_catalog/) 
     - 1D image of each quasars as their spectrum available in [SDSS](https://www.sdss.org/dr16/spectro)
